@@ -38,12 +38,10 @@ pm uninstall -k --user 0 com.flipboard.boxer.app
 pm uninstall -k --user 0 com.google.android.apps.books
 pm uninstall -k --user 0 com.google.android.apps.docs
 pm uninstall -k --user 0 com.google.android.apps.magazines
-pm uninstall -k --user 0 com.google.android.apps.maps
 pm uninstall -k --user 0 com.google.android.apps.plus
 pm uninstall -k --user 0 com.google.android.apps.tachyon
 pm uninstall -k --user 0 com.google.android.apps.tachyon
 pm uninstall -k --user 0 com.google.android.apps.youtube.music
-pm uninstall -k --user 0 com.google.android.gm
 pm uninstall -k --user 0 com.google.android.googlequicksearchbox
 pm uninstall -k --user 0 com.google.android.printservice.recommendation
 pm uninstall -k --user 0 com.google.android.talk
@@ -75,7 +73,6 @@ pm uninstall -k --user 0 com.netflix.mediaclient
 pm uninstall -k --user 0 com.nuance.swype.input
 pm uninstall -k --user 0 com.osp.app.signin
 pm uninstall -k --user 0 com.policydm
-pm uninstall -k --user 0 com.samsung.SMT
 pm uninstall -k --user 0 com.samsung.aasaservice
 pm uninstall -k --user 0 com.samsung.android.aircommandmanager
 pm uninstall -k --user 0 com.samsung.android.allshare.service.fileshare
