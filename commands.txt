@@ -5,7 +5,6 @@ pm uninstall -k --user 0 com.amazon.mp3
 pm uninstall -k --user 0 com.amazon.venezia
 pm uninstall -k --user 0 com.android.backupconfirm
 pm uninstall -k --user 0 com.android.bips
-pm uninstall -k --user 0 com.android.chrome
 pm uninstall -k --user 0 com.android.dreams.basic
 pm uninstall -k --user 0 com.android.dreams.phototable
 pm uninstall -k --user 0 com.android.dreams.phototable
@@ -127,7 +126,6 @@ pm uninstall -k --user 0 com.samsung.android.bixby.service
 pm uninstall -k --user 0 com.samsung.android.bixby.voiceinput
 pm uninstall -k --user 0 com.samsung.android.bixby.wakeup
 pm uninstall -k --user 0 com.samsung.android.bixbyvision.framework
-pm uninstall -k --user 0 com.samsung.android.calendar
 pm uninstall -k --user 0 com.samsung.android.da.daagent
 pm uninstall -k --user 0 com.samsung.android.dlp.service
 pm uninstall -k --user 0 com.samsung.android.drivelink.stub
@@ -214,14 +212,12 @@ pm uninstall -k --user 0 com.sec.android.app.applinker
 pm uninstall -k --user 0 com.sec.android.app.billing
 pm uninstall -k --user 0 com.sec.android.app.bluetoothtest
 pm uninstall -k --user 0 com.sec.android.app.chromecustomizations
-pm uninstall -k --user 0 com.sec.android.app.clockpackage
 pm uninstall -k --user 0 com.sec.android.app.desktoplauncher
 pm uninstall -k --user 0 com.sec.android.app.dexonpc
 pm uninstall -k --user 0 com.sec.android.app.factorykeystring
 pm uninstall -k --user 0 com.sec.android.app.gamehub
 pm uninstall -k --user 0 com.sec.android.app.hwmoduletest
 pm uninstall -k --user 0 com.sec.android.app.magnifier
-pm uninstall -k --user 0 com.sec.android.app.myfiles
 pm uninstall -k --user 0 com.sec.android.app.ocr
 pm uninstall -k --user 0 com.sec.android.app.parser
 pm uninstall -k --user 0 com.sec.android.app.personalization
